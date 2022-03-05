@@ -1,9 +1,11 @@
 <div id="Hello" align="center">
 <h1> Hello there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h1>
 </div>
+<!--
 <div id="MyFuckingWords" align="center">
   <h3>Drink Coffee, Be Happy, Don't Forget To Code</h3>
 </div>
+-->
 <br>
 <div id="Me" align="center">
   <p>I am Mohammad Reza,<br>This is my GitHub profile, and I put some of my projects here.</p>
