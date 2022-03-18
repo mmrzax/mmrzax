@@ -16,24 +16,27 @@
 
 <div id="Skills" align="center">
 <h2>What are my skills?</h2>
+    <a href="https://www.ecma-international.org"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64px"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64px"></a>
 <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64px"></a>
 <a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="64px"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64px"></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="64px"></a>
 <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="64px"></a>
 <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="64px"></a>
-<a href="https://www.linux.org"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="64px"></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64px"></a>
 </div>
 <div id="Tools" align="center">
   <h2>What tools do I use?</h2>
+  <a href="https://www.linux.org"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="64px"></a>
   <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="64px"></a>
-  <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="64px"></a>
-  <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="64px"></a>
+  <a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="64px"></a>
+  <a href="https://www.vim.org"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="64px"></a>
+  <a href="https://alacritty.org"><img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" width="64px"></a>
+  <a href="https://github.com/tmux/tmux/"><img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="64px"></a>
 </div>
-
 <br>
-
 <div id="Stats" align=center>
+  <h2>Stats</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmrzax&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MMRZAX's Github Stats">
 </div>
 
