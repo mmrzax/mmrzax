@@ -28,6 +28,8 @@
 <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64px"></a>
 </div>
 
+<br>
+
 <div id="Tools" align="center">
 <h2>What tools do I use?</h2>
 <a href="https://www.linux.org"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="64px"></a>
