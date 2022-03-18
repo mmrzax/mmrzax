@@ -15,15 +15,21 @@
 
 
 <div id="Skills" align="center">
-<h2>My Skills</h2>
+<h2>What are my skills?</h2>
 <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64px"></a>
 <a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="64px"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64px"></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="64px"></a>
+<a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="64px"></a>
 <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="64px"></a>
 <a href="https://www.linux.org"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="64px"></a>
 </div>
-
+<div id="Tools" align="center">
+  <h2>What tools do I use?</h2>
+  <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="64px"></a>
+  <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="64px"></a>
+  <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="64px"></a>
+</div>
 
 <br>
 
