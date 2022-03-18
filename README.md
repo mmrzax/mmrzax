@@ -11,7 +11,7 @@
 <br>
 
 <div id="Me" align="center">
-<p>I am Mohammad Reza,<br>This is my GitHub profile, and I put some of my projects here.</p>
+<strong>Im Mohammad Reza,<br>This is my GitHub profile, and I put some of my projects here.</strong>
 </div>
 
 <br>
