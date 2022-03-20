@@ -37,7 +37,8 @@
 <a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="64px"></a>
 <a href="https://www.vim.org"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="64px"></a>
 <a href="https://alacritty.org"><img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" width="64px"></a>
-<a href="https://github.com/tmux/tmux/"><img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="64px"></a>
+<a href="https://github.com/tmux/tmux/"><img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="60px"></a>
+  <a href="https://i3wm.org"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width="64px"></a>
 </div>
 
 <br>
