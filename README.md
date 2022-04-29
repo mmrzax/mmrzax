@@ -21,6 +21,6 @@
 
 <h3>Find me :)</h3>
 <a href="https://www.linkedin.com/in/mmrza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9cf?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mmrza_mad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/im4lolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/Bialetti" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?&style=flat-square&logo=telegram&logoColor=blue" alt="Telegram"></a>
 </div>
