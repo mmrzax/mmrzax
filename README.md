@@ -1,15 +1,8 @@
-<div id="Hello" align="center">
-<h1> Hello there</h1>
-</div>
-
 <div id="main" align="center">
 
 <br>
 
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64px"></a>
-<a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="64px"></a>
-<a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64px"></a>
-<a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="64px"></a>
+<em><strong>A Gopher who loves Linux, Neovim and open source things<strong/><em/>
 
 <br>
 
